@@ -37,11 +37,13 @@ h4 {
 }
 
 .indifferent {
+  background: linear-gradient(to right, #770,#aa0);
   box-shadow:  -1px 1px #dddd99, -2px 2px #ccdd99, -3px 3px #dddd99, -4px 4px #dddd99, -5px 5px #dddd99;
   background-color: #dddd22;
 }
 
 .dubious {
+  background: linear-gradient(to right, #700, #a00);
   box-shadow:  -1px 1px #22aa44, -2px 2px #22aa44, -3px 3px #22aa44, -4px 4px #22aa44, -5px 5px #22aa44;
   background-color: #dd4444;
 }
